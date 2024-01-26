@@ -1,5 +1,13 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-    background-color: lightgray;
+    header {
+        .azzurrino {
+            background-color: #0282f9;
+        }
+
+        .custom-ul-style {
+            margin-bottom: 0;
+        }
+    }
 }
