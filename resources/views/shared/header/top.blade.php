@@ -1,8 +1,8 @@
 <div class="azzurrino">
     <div class="container d-flex justify-content-end">
-        <ul class="custom-ul-style d-flex list-unstyled text-white">
-            <li>prova 1</li>
-            <li>prova 2</li>
+        <ul class="custom-ul-style text-white">
+            <li>DC POWER VISA</li>
+            <li>ADDITIONAL DC SITES</li>
         </ul>
     </div>
 </div>

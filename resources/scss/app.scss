@@ -8,6 +8,23 @@ body {
 
         .custom-ul-style {
             margin-bottom: 0;
+            display: flex;
+            gap: 15px;
+            list-style: none;
+            padding: 0;
+        }
+
+        .navbar-nav {
+            display: flex;
+            justify-content: flex-end;
+            width: 100%;
+            padding-right: 15px;
+            /* Aggiunge un padding a destra per allineare la lista con l'estremità destra del div */
+        }
+
+        .navbar-nav .nav-item {
+            margin-left: 15px;
+            /* Aggiunge uno spazio tra gli elementi della lista */
         }
     }
 }
